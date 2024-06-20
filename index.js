@@ -13,3 +13,12 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
+
+
+const express = require('express');
+const cors = require('cors');
+
+// Enable CORS for all origins (you may want to restrict this in production)
+app.use(cors());
+
+// Other middleware and route definitions

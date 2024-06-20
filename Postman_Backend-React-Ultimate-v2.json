@@ -35,7 +35,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/register",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/register",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -71,7 +71,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/login",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/login",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -107,7 +107,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/refresh-token",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/refresh-token",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -150,7 +150,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/logout",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/logout",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -203,7 +203,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/change-password",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/change-password",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -249,7 +249,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/profile",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/profile",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -280,7 +280,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/overview",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/overview",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -311,7 +311,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/history",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/history",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -337,7 +337,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/quiz/1",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/quiz/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -391,7 +391,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/quiz",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/quiz",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -442,7 +442,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/quiz",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/quiz",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -463,7 +463,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/quiz/1",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/quiz/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -495,7 +495,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/quiz-by-participant",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/quiz-by-participant",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -541,7 +541,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/quiz-assign-to-user",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/quiz-assign-to-user",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -572,7 +572,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/quiz-with-qa/12",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/quiz-with-qa/12",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -613,7 +613,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/quiz-upsert-qa",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/quiz-upsert-qa",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -639,7 +639,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/participant?page=1&limit=2",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/participant?page=1&limit=2",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -700,7 +700,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/participant",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/participant",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -746,7 +746,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/participant",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/participant",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -777,7 +777,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/participant",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/participant",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -798,7 +798,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/participant/all",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/participant/all",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -837,7 +837,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/question/1",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/question/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -886,7 +886,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/question",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/question",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -932,7 +932,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/question",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/question",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -978,7 +978,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/question",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/question",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -999,7 +999,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/questions-by-quiz?quizId=2",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/questions-by-quiz?quizId=2",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -1036,7 +1036,7 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/question-with-answer-by-quiz",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/question-with-answer-by-quiz",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -1090,7 +1090,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/answer",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/answer",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -1136,7 +1136,7 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/answer",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/answer",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -1157,7 +1157,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/api/v1/answer/29",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/answer/29",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -1198,7 +1198,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8081/api/v1/quiz-submit",
+							"raw": "https://sandy-quiz-app-backend.onrender.com/api/v1/quiz-submit",
 							"protocol": "http",
 							"host": [
 								"localhost"
